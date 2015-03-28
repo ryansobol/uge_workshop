@@ -1,3 +1,9 @@
+GitHub is a hub of .git/ directories
+
+You can push and pull commits to and from .git/ directories
+
+You can also clone .git/ directories to new computers or new paths
+
 master branch is a label that git creates for us when we initialize a repository
 
 HEAD is another label that git creates for us when we create our first commit
